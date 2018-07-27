@@ -16,6 +16,10 @@ public class Greeter {
     System.out.println("This will be a host method");
   }
 
+  public void hello() {
+    System.out.println("Hello Jenkins");
+  }
+
 
   //TODO: Add javadoc comment
   public String greet(String someone) {
