@@ -1,6 +1,6 @@
 # maven-project
 
-Triggered from github hook
+This is will trigger with hook
 Source code for James Lee's Jenkins course.
 
 Check out our Latest DevOps PDF book.
